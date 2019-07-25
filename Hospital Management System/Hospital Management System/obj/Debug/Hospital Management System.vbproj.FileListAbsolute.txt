@@ -1,0 +1,15 @@
+C:\Users\alexis\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.vbprojAssemblyReference.cache
+C:\Users\alexis\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Form1.resources
+C:\Users\alexis\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Resources.resources
+C:\Users\alexis\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.vbproj.GenerateResource.cache
+C:\Users\alexis\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.vbproj.CoreCompileInputs.cache
+C:\Users\alexis\source\repos\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe.config
+C:\Users\alexis\source\repos\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe
+C:\Users\alexis\source\repos\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.pdb
+C:\Users\alexis\source\repos\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.xml
+C:\Users\alexis\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.exe
+C:\Users\alexis\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.xml
+C:\Users\alexis\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.pdb
+C:\Users\alexis\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.add.resources
+C:\Users\alexis\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Form2.resources
+C:\Users\alexis\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.editform.resources
